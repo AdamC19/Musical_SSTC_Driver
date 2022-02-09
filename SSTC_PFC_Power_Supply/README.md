@@ -1,0 +1,2 @@
+# APFC AC-DC Power Supply
+This is an AC-to-DC power supply with Active Power Factor Correction (APFC). It takes in 120V AC and converts it to ~500V DC. It's designed to supply a maximum current of 1.8A, so about 900W. In case it needs to be said, this supply is dangerous! Don't build it unless you understand the risks and know how to mitigate them. 
