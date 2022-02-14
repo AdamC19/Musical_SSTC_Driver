@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.2,
-          "height": 2.4,
-          "width": 2.4
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -44,17 +44,11 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.39999999999999997
+          "45_degree_only": true,
+          "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -118,21 +112,8 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [
-        0.0,
-        0.35,
-        0.5,
-        1.0,
-        1.5,
-        2.0,
-        2.5
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -352,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SSTC_Switch_Board.kicad_pro",
+    "filename": "Audio_Isolator.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -386,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "SSTC_Switch_Board.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -431,7 +412,7 @@
   },
   "sheets": [
     [
-      "74413d50-fc28-44a8-8dc9-1fffb6bdf867",
+      "a1fac9ac-9b13-4914-815c-1a1abdf1be1e",
       ""
     ]
   ],
