@@ -383,7 +383,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../SSTC_Control_Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

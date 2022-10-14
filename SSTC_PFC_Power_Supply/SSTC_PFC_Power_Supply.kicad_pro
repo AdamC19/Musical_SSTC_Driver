@@ -434,7 +434,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../SSTC_PFC_Power_Supply.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

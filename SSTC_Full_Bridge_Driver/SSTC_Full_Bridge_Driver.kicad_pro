@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.35
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -386,7 +386,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../SSTC_Full_Bridge_Driver.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
